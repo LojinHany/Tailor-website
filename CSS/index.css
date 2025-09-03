@@ -14,6 +14,8 @@
 /* top banner */
 .top-banner {
     background-color: var(--main-color);
+    white-space: normal;   /* allow text wrapping */
+    overflow-x: hidden;
 }
 /* top banner */
 
@@ -196,4 +198,5 @@
     }
     
 }
+
 
